@@ -1,0 +1,22 @@
+.product{
+width: 100%;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    color: #da552f;
+    background: none;
+    border: 1px solid #da552f;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.2s;    
+}
